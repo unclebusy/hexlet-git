@@ -1,2 +1,1 @@
-Hello, World!
-Again Hello!
+Hello, Hexlet! How are you?
