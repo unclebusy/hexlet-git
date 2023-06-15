@@ -1,4 +1,1 @@
-acces.log
-node-modules/
-/coverage//db/*.sqlite3
-doc/**/*.txt
+INFO.md
